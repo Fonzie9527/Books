@@ -13,3 +13,4 @@
 
 * [第5章 函数](chap05 functions/05.1.md) 
    - [5.1 函数声明](chap05 functions/05.1.md)
+   - [5.2 递归](chap05 functions/05.2.md)
