@@ -1,3 +1,3 @@
-[submodule "book_source_code/gopl.io"]
-	path = book_source_code/gopl.io
+[submodule "bookcode/gopl.io"]
+	path = bookcode/gopl.io
 	url = https://github.com/adonovan/gopl.io.git
