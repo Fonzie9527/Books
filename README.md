@@ -1,4 +1,4 @@
 # Introduction
 
-The Go Programming Language
+Code examples for learning, with blog 'https://francancan.github.io/'
 
